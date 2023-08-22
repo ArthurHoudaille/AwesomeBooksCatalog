@@ -23,7 +23,7 @@
 ![Harry Potter Cover](images/harry-potter.jpg)
 
 - **Author:** J.K. Rowling
-- **Published:** 1997
+- **Published:** 199x
 - **Genre:** Fantasy
 - **Description:** The start of the beloved Harry Potter series, following a young wizard's journey through a magical school and his battle against the dark wizard Voldemort.
 
